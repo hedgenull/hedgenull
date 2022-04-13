@@ -1,5 +1,5 @@
 # Hello, I am @hedgenull
 
-I am interested in hacking, pentesting, SQL, python, AI, Ruby, PHP, and possibly (?) JavaScript.
-C++ is a bad idea and so are Macs. I recently tried Git/Github/VSCode integration and it's awesome! Hopefully I'll be doing more of that soon.
+I am interested in hacking, pentesting, SQL, Python, AI, Ruby, PHP, and pretty much all programming.
+C++ is a bad idea and so are Macs. Git/Github/VSCode integration is awesome! Hopefully I'll be doing more of that soon.
 Here's my blog: https://grey.bearcreek.family
