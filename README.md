@@ -3,4 +3,4 @@
 I am interested in hacking, code golfing, inventing programming languages, SQL, Python, Node, Ruby/Rails, PHP, Rust, and pretty much all other programming.
 C++ is a bad idea and so are Macs. Git/Github/VSCode integration is awesome! Hopefully I'll be doing more of that soon.
 
-[My Website- ahem, this is TOTALLY credible](https://hedge.bearcreek.family)
+https://hedge.bearcreek.family
