@@ -1,4 +1,4 @@
-An aspiring developer. I love making programming languages, especially esoteric ones. I also like mangling Python code into an unrecognizable mess.
+An aspiring developer. I love making programming languages. I also like mangling Python code into an unrecognizable mess.
 
 Languages (most known to least known):
 1. Python
