@@ -5,7 +5,7 @@
 |__|__||_____||_____||___  ||_____||__|__||_____||__||__|
                      |_____|
 
-_Python | Rust | Hacking | Web-Dev | Game-Dev | Programming Languages | And Much More!_
+Python | Rust | Hacking | Web-Dev | Game-Dev | Programming Languages | And Much More!
 ```
 
 An aspiring developer. I love making programming languages and mangling Python code into an unrecognizable mess.
