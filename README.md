@@ -1,15 +1,3 @@
-```
- __               __                              __  __
-|  |--..-----..--|  |.-----..-----..-----..--.--.|  ||  |
-|     ||  -__||  _  ||  _  ||  -__||     ||  |  ||  ||  |
-|__|__||_____||_____||___  ||_____||__|__||_____||__||__|
-                     |_____|
+## I'm [@hedgenull](https://github.com/hedgenull/)! Nice to meet you!
 
-Python | Rust | Hacking | Web-Dev | Game-Dev | Programming Languages | And Much More!
-```
-
-An aspiring developer. I love making programming languages and mangling Python code into an unrecognizable mess.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hedgenull)](https://github.com/hedgenull/github-readme-stats)
-
-[![Hedge's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedgenull)](https://github.com/hedgenull/github-readme-stats)
+Hi there! I'm Hedge Fleming, an aspiring developer, penetration tester, and digital tinkerer. I love designing and implementing my own programming languages, creating pentesting tools from scratch, exploring software structure patterns, and more! I'm fluent in Python, Rust, Ruby, JavaScript, MySQL, and a little bit of PHP.
