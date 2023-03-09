@@ -1,3 +1,1 @@
-## I'm [hedgenull](https://hedgenull.bio.link/)!
-
-Hi there! I'm Hedge Fleming, an aspiring developer, penetration tester, and digital experimenter. I love designing and implementing my own programming languages, creating pentesting tools from scratch, exploring software structure patterns, and more! I'm fluent in Python, MySQL and Ruby. I'm learning Rust as well and know a tiny bit of JavaScript/PHP.
+I'm a Christian and an aspiring penetration tester/programmer. I've learned Rust, Python, Ruby, and MySQL, as well as a bit of JS and PHP. I'm taking an ethical hacking course and things I have developed include a simple platformer, phishing email aids, a fully-functional programming language, and a text-adventure game, among other things.
